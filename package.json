@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "renovate": "41.113.2",
-    "xmldoc": "2.0.1"
+    "xmldoc": "2.0.2"
   }
 }
