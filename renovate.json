@@ -1,4 +1,4 @@
 {
   "minimumReleaseAge": "3 days",
-  "automerge": "enabled"
+  "automerge": true
 }
